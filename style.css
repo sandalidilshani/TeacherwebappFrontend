@@ -207,7 +207,7 @@ gap: 30px;
 }
 
 #packages .container .row .column1 a {
-  color: var(--primary-text-color, #96bb7c);
+  color:  #96bb7c;
   font-family: Montserrat;
   font-size: 14px;
   font-style: normal;
@@ -224,7 +224,7 @@ gap: 30px;
   background: #96bb7c;
 }
 #packages .container .row .column2 .p1 {
-  color: var(--text-color, #252b42);
+  color:  #252b42;
   font-family: Montserrat;
   font-size: 16px;
   font-style: normal;
@@ -232,7 +232,7 @@ gap: 30px;
 }
 
 #packages .container .row .column2 .p2 {
-  color: var(--second-text-color, #737373);
+  color:  #737373;
  width: 132px;
   font-family: Montserrat;
   font-size: 14px;
